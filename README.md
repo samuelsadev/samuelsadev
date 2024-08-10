@@ -1,4 +1,4 @@
-<h1 align="left">Olá, me chamo Samuel!<br><br></h1>
+<h1 align="left">Olá, me chamo Samuel!<br></h1>
 
 <h2 align="left">Seja bem vindo ao meu perfil!<br><br></h2>
 
