@@ -1,4 +1,4 @@
-<h4 align="left">Olá, me chamo Samuel!<br><br>Seja bem vindo ao meu perfil!<br><br><br>Sou um Desenvolvedor em busca da minha primeira oportunidade, atualmente estou cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com ênfase em Java, Spring, MySQL , PostgreSQL e React, capaz de construir APIs integradas com banco de dados. Estou dedicado a aprofundar meu entendimento em arquitetura de software e aplicar conceitos como práticas ágeis para melhorar a eficiência e qualidade dos meus projetos.</h4>
+<h4 align="left"><br>Sou um Desenvolvedor em busca da minha primeira oportunidade, atualmente estou cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com ênfase em Java, Spring, MySQL , PostgreSQL e React, capaz de construir APIs integradas com banco de dados. Estou dedicado a aprofundar meu entendimento em arquitetura de software e aplicar conceitos como práticas ágeis para melhorar a eficiência e qualidade dos meus projetos.</h4>
 
 ###
 
