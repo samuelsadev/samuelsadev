@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samuelsadev/samuelsadev/output/snake.svg" alt="Snake animation" />
-
 ###
