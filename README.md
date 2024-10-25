@@ -6,7 +6,7 @@
   Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
   Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender.
 </h4>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
