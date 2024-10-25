@@ -1,5 +1,8 @@
-<h4 align="left">Olá, me chamo Samuel!<br><br>Seja bem vindo ao meu perfil!<br><br><br>Sou um Desenvolvedor em busca da minha primeira oportunidade, atualmente estou cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com ênfase em Java, Spring, MySQL , PostgreSQL e React, capaz de construir APIs integradas com banco de dados. Estou dedicado a aprofundar meu entendimento em arquitetura de software e aplicar conceitos como práticas ágeis para melhorar a eficiência e qualidade dos meus projetos.</h4>
-
+<h4 align="left">
+  Desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas, também estou estudando AWS e ServiceNow.<br><br>
+  Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
+  Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender.
+</h4>
 ###
 
 <div align="center">
