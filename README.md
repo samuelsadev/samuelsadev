@@ -1,10 +1,4 @@
-<h1 align="left">Olá, me chamo Samuel!<br></h1>
-
-<h4 align="left">
-  Desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas, também estou estudando AWS e ServiceNow.<br><br>
-  Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
-  Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender.
-</h4>
+<h4 align="left">Olá, me chamo Samuel!<br><br>Seja bem vindo ao meu perfil!<br><br><br>Sou um Desenvolvedor em busca da minha primeira oportunidade, atualmente estou cursando Análise e Desenvolvimento de Sistemas, tenho experiência prática com ênfase em Java, Spring, MySQL , PostgreSQL e React, capaz de construir APIs integradas com banco de dados. Estou dedicado a aprofundar meu entendimento em arquitetura de software e aplicar conceitos como práticas ágeis para melhorar a eficiência e qualidade dos meus projetos.</h4>
 
 ###
 
@@ -14,7 +8,7 @@
 
 ###
 
-<img align="right" height="155" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3MnltMmpnNm81aGZlNDcxNmIxZWkzYnoycm50azlpNDlkeHAwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+<img align="right" height="155" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmsybHM5bmI5bDMxc3NxZzY2d2pmZTdhcGw3Zmd6NjB4YTAzN256MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 
 ###
 
@@ -50,12 +44,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
 </div>
 
 ###
 
 <div align="left">
-   <a href="mailto:samuelsa.dev@gmail.com" target="_blank">
+  <a href="mailto:samuelsa.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/samuel-sa/" target="_blank">
