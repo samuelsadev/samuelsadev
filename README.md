@@ -1,3 +1,6 @@
+<h1 align="left">Olá, me chamo Samuel!<br></h1>
+
+<h2 align="left">Seja bem vindo ao meu perfil!<br><br></h2>
 <h4 align="left">
   Desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas, também estou estudando AWS e ServiceNow.<br><br>
   Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
