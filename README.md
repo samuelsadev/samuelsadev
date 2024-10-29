@@ -6,7 +6,7 @@
   Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
   Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender.
 </h4>
-##
+
 
 
 <div align="center">
