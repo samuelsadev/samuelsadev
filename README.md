@@ -3,8 +3,8 @@
 <h2 align="left">Seja bem vindo ao meu perfil!<br><br></h2>
 <h4 align="left">
   Desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas, também estou estudando AWS e ServiceNow.<br><br>
-  Hard Skills: Java, Spring, C#, Python, React, JavaScript, SQL, MySQL, PostgreSQL, AWS, ServiceNow, git, Scrum, Kanban, liderança e capacidade analítica.<br><br>
-  Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender.
+  Hard Skills: Java, Spring, Python, React, JavaScript, SQL, MySQL, PostgreSQL, MongoDB, Docker, AWS, git, Scrum, Kanban, SOLID.<br><br>
+  Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender, liderança e capacidade analítica.
 </h4>
 
 
