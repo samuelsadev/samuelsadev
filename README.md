@@ -2,9 +2,16 @@
 
 <h2 align="left">Seja bem vindo ao meu perfil!<br><br></h2>
 <h4 align="left">
-  Desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas, também estou estudando AWS e ServiceNow.<br><br>
-  Hard Skills: Java, Spring, Python, React, JavaScript, SQL, MySQL, PostgreSQL, MongoDB, Docker, AWS, git, Scrum, Kanban, SOLID.<br><br>
-  Soft Skills: Proatividade, flexibilidade, persistência, organização e trabalho em equipe, facilidade de aprender, liderança e capacidade analítica.
+  Estudante de Engenharia de Software, buscando oportunidades de estágio. Experiência prática com tecnologias como Java, Spring, C#, Python, AWS, além de SQL, NoSQL, mensageria com RabbitMQ e testes unitários. Atuação com Cloud e DevOps, utilizando Docker, CI/CD, e AWS.
+
+Soft Skills incluem capacidade analítica, liderança, proatividade, organização e flexibilidade, com facilidade de aprendizado e trabalho em equipe. Aplicação de metodologias ágeis como Scrum, Kanban, SOLID e CI/CD.
+
+Linguagens: Java, C#, Python, JavaScript, SQL
+Frameworks: Spring, .NET, React
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+Ferramentas: Git, REST APIs, Docker, RabbitMQ, Kafka, Trello
+Metodologias: Scrum, Kanban, SOLID, CI/CD
+Cloud & DevOps: AWS, Docker
 </h4>
 
 
