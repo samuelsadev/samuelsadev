@@ -2,16 +2,16 @@
 
 <h2 align="left">Seja bem vindo ao meu perfil!<br><br></h2>
 <h4 align="left">
-  Estudante de Engenharia de Software, buscando oportunidades de estágio. Experiência prática com tecnologias como Java, Spring, C#, Python, AWS, além de SQL, NoSQL, mensageria com RabbitMQ e testes unitários. Atuação com Cloud e DevOps, utilizando Docker, CI/CD, e AWS.
+  Estudante de Engenharia de Software, buscando oportunidades de estágio. Experiência prática com tecnologias como Java, Spring, C#, Python, AWS, além de SQL, NoSQL, mensageria com RabbitMQ e testes unitários. Atuação com Cloud e DevOps, utilizando Docker, CI/CD, e AWS.</h4>
 
-Soft Skills incluem capacidade analítica, liderança, proatividade, organização e flexibilidade, com facilidade de aprendizado e trabalho em equipe. Aplicação de metodologias ágeis como Scrum, Kanban, SOLID e CI/CD.
+<h4 align="left">Soft Skills incluem capacidade analítica, liderança, proatividade, organização e flexibilidade, com facilidade de aprendizado e trabalho em equipe. Aplicação de metodologias ágeis como Scrum, Kanban, SOLID e CI/CD.</h4>
 
-Linguagens: Java, C#, Python, JavaScript, SQL
-Frameworks: Spring, .NET, React
-Banco de Dados: MySQL, PostgreSQL, MongoDB
-Ferramentas: Git, REST APIs, Docker, RabbitMQ, Kafka, Trello
-Metodologias: Scrum, Kanban, SOLID, CI/CD
-Cloud & DevOps: AWS, Docker
+<h4 align="left">Linguagens: Java, C#, Python, JavaScript, SQL</h4>
+<h4 align="left">Frameworks: Spring, .NET, React</h4>
+<h4 align="left">Banco de Dados: MySQL, PostgreSQL, </h4>
+<h4 align="left">Ferramentas: Git, REST APIs, Docker, RabbitMQ, Kafka, Trello</h4>
+<h4 align="left">Metodologias: Scrum, Kanban, SOLID, CI/CD</h4>
+<h4 align="left">Cloud & DevOps: AWS, Docker
 </h4>
 
 
