@@ -14,10 +14,6 @@
 </h4>
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsadev&layout=compact&theme=midnight-purple&count_private=true" />
-</div>
 ###
 
 <img align="right" height="155" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmsybHM5bmI5bDMxc3NxZzY2d2pmZTdhcGw3Zmd6NjB4YTAzN256MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
