@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsadev&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=samuelsadev&layout=compact&theme=midnight-purple" />
 </div>
 
 ###
